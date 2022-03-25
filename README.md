@@ -174,3 +174,6 @@ Also you can see the number of seconds remaining for the recording.
 If you want to record video of the screen then just pass "video" instead of "audio" inside our **useRecorderPermission** hook and thats it!
 
 That's it. I hope you learned something new today!
+
+Article Link:
+https://www.mohammadfaisal.dev/blog/react-audio-video-recording
